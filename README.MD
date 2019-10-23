@@ -1,20 +1,22 @@
-## Implementación del juego de Pacman utilizando el algoritmo de búsqueda A*
-En esta versión del juego de Pacman, los fantasmas utilizan el [algoritmo de búsqueda A*](http://es.wikipedia.org/wiki/Algoritmo_de_búsqueda_A*) para encontrar a Pacman y terminar con su existencia. El algoritmo consiste en encontrar un objetivo con la ruta que genere menos costo entre dos puntos, uno de inicio y otro de terminación. En este caso Pacman representa el objetivo a llegar y los fantasmas el punto de inicio.
+## ImplementaciÃ³n del juego de Pacman utilizando el algoritmo de bÃºsqueda A*
+En esta versiÃ³n del juego de Pacman, los fantasmas utilizan el [algoritmo de bÃºsqueda A*](http://es.wikipedia.org/wiki/Algoritmo_de_bÃºsqueda_A*) para encontrar a Pacman y terminar con su existencia. El algoritmo consiste en encontrar un objetivo con la ruta que genere menos costo entre dos puntos, uno de inicio y otro de terminaciÃ³n. En este caso Pacman representa el objetivo a llegar y los fantasmas el punto de inicio.
 
-Los fantasmas se mueven aleatoriamente cuando están asustados porque Pacman se comió la píldora de poder.
+Los fantasmas se mueven aleatoriamente cuando estÃ¡n asustados porque Pacman se comiÃ³ la pÃ­ldora de poder.
 
 ![Jugar Pacman A*](http://labs.panchosoft.com/pacman/icono.png)[Jugar Pacman](http://labs.panchosoft.com/pacman/launch.jnlp)
-![Pacman A*](http://labs.panchosoft.com/pacman/pacmanss.png)
-**Para ver gráficamente la ruta más corta a seguir presiona la tecla "C" durante el juego.**
 
-Página del proyecto: http://labs.panchosoft.com/pacman/
+![Pacman A*](http://labs.panchosoft.com/pacman/pacmanss.png)
+
+**Para ver grÃ¡ficamente la ruta mÃ¡s corta a seguir presiona la tecla "C" durante el juego.**
+
+PÃ¡gina del proyecto: http://labs.panchosoft.com/pacman/
 
 ## Detalles
 
--   Lenguaje de programación: Java SE
--   Patrones de diseño: sin respeto por algún patrón.
+-   Lenguaje de programaciÃ³n: Java SE
+-   Patrones de diseÃ±o: sin respeto por algÃºn patrÃ³n.
 -   Si logras pasar el nivel 3 tienes mis respetos.
 
 ## Fuentes
 
-Basado inicialmente en la interfaz gráfica de [Java Boutique](http://javaboutique.internet.com/PacMan/).
+Basado inicialmente en la interfaz grÃ¡fica de [Java Boutique](http://javaboutique.internet.com/PacMan/).
