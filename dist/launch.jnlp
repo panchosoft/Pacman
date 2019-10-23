@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<jnlp codebase="http://labs.panchosoft.com/pacman/" href="launch.jnlp" spec="1.0+">
+    <information>
+        <title>Pacman</title>
+        <vendor>Francisco I. Leyva (Panchosoft.com)</vendor>
+        <homepage href="http://labs.panchosoft.com/pacman"/>
+        <description>Juego del Pacman donde los fantasmas utilizan el algoritmo de búsqueda A* para encontrar a Pacman y terminar con su existencia. Para ver el funcionamiento del algoritmo presiona la tecla "c" cuando estés jugando, se mostrará el camino más corto y su costo desde el fantasma hasta Pacman.</description>
+        <description kind="short">Pacman</description>
+
+
+    <icon href="icono.png" kind="default"/>
+</information>
+<security>
+<all-permissions/>
+</security>
+    <resources>
+<j2se version="1.5+"/>
+<jar eager="true" href="Pacman.jar" main="true"/>
+
+
+    </resources>
+    <application-desc main-class="org.panchosoft.pacman.Main">
+
+    </application-desc>
+</jnlp>
