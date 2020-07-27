@@ -9,7 +9,7 @@ Los fantasmas se mueven aleatoriamente cuando están asustados porque Pacman se 
 
 **Para ver gráficamente la ruta más corta a seguir presiona la tecla "C" durante el juego.**
 
-Página del proyecto: http://labs.panchosoft.com/pacman/
+Página del proyecto: http://labs.panchosoft.com/pacman/index.html
 
 ## Detalles
 
